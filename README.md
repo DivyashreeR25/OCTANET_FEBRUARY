@@ -16,6 +16,6 @@ Welcome to **The Candy House** – a beautifully designed landing page showcasin
 
 - **HTML5** – Structure & content  
 - **CSS3** – Styling & animations  
-- **JavaScript (optional)** – Interactivity  
+ 
 
 
