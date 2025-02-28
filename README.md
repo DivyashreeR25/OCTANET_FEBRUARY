@@ -1,4 +1,4 @@
-# Landing Page
+# Landing Page Task
 # 🍭 The Candy House - Sweetest Landing Page  
 
 Welcome to **The Candy House** – a beautifully designed landing page showcasing delicious treats, vibrant visuals, and an engaging user experience. This project is built to captivate candy lovers and provide a seamless browsing experience.
